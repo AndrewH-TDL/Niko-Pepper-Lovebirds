@@ -46,4 +46,6 @@ CREDITS
 	https://freesound.org/people/alanmcki/sounds/461017/
 * Thank you to Tofu on Lospec.com for the following color palette:
 	https://lospec.com/palette-list/tofu-20k
+* Thank you to kikito on GitHub for middleclass.lua:
+	https://github.com/kikito/middleclass
 * And of course, special thank you to the LOVE2D framework and their forums.
