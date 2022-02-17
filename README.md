@@ -9,7 +9,7 @@ BASIC GAMEPLAY
 * Once you have used an ability, the NEXT button should appear. Click it or press 'n' to procede to the next turn. You must also do this after
   an enemy bird uses their ability.
 * You get a few turns in between enemy encounters, so make sure to heal up!
-* If one of your birds is defeated, it will respawn with 1 health at the expense of your surviving bird's effects.
+* If one of your birds is defeated, it will respawn with 1 health.
   
 EFFECT CHAINING
 * Effects will disappear at the end of a bird's turn.
