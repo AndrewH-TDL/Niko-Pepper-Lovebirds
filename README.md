@@ -8,6 +8,7 @@ BASIC GAMEPLAY
 * If an ability specifies that it has a target, click on an enemy bird to target them. Click on a targeted enemy again to untarget them.
 * Once you have used an ability, the NEXT button should appear. Click it or press 'n' to procede to the next turn. You must also do this after
   an enemy bird uses their ability.
+* You get a few turns in between enemy encounters, so make sure to heal up!
   
 EFFECT CHAINING
 * Effects will disappear at the end of a bird's turn.
