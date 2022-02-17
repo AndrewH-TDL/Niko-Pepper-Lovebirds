@@ -28,6 +28,7 @@ EFFECTS
 TECHINICAL ISSUES
 * No volume control
 * Only displays at 1920x1080p in fullscreen
+* Windows Defender may prevent you from running it. Unsure if this is because the files don't have an entity tied to them or what.
 
 CREDITS
 * Niko and Pepper: Lovebirds
