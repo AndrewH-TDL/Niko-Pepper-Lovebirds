@@ -28,3 +28,20 @@ EFFECTS
 TECHINICAL ISSUES
 * No volume control
 * Only displays at 1920x1080p in fullscreen
+
+CREDITS
+Niko and Pepper: Lovebirds
+A game by Andrew Hunter
+Music and Sound Effects by Daniel Speal
+Thank you to EminYILDIRIM on freesounds.org for the following sound effect:
+	https://freesound.org/people/EminYILDIRIM/sounds/611193/
+Thank you to colorsCrimsonTears on freesounds.org for the following sound effect:
+	https://freesound.org/people/colorsCrimsonTears/sounds/580307/
+Thank you to Borgory on freesounds.org for the following sound effect:
+	https://freesound.org/people/Borgory/sounds/548367/
+Thank you to Tairblenn on freesounds.org for the following sound effect:
+	https://freesound.org/people/Tairblenn/sounds/540151/
+Thank you to alanmcki on freesounds.org for the following sound effect:
+	https://freesound.org/people/alanmcki/sounds/461017/
+Thank you to Tofu on Lospec.com for the following color palette:
+	https://lospec.com/palette-list/tofu-20k
